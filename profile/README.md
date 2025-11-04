@@ -9,8 +9,8 @@ We are a group of software developers who develop software for the popular anima
 We're known for the following software:
 
 - GoExport ([Download](https://github.com/GoExport/GoExport), exporter for Wrapper Offline and FlashThemes)
+- GoExport Outro Maker ([Download](https://github.com/GoExport/GoExport-Outro-Maker), generate outros for GoExport)
 - GoSubtitle (Unreleased, generate SRT files from Wrapper Offline videos)
-- GoImporter (Unreleased, import movies into Wrapper Offline)
 
 We're also known for additional things:
 
