@@ -10,7 +10,7 @@ We're known for the following software:
 
 - GoExport ([Download](https://github.com/GoExport/GoExport), exporter for Wrapper Offline and FlashThemes)
 - GoExport Outro Maker ([Download](https://github.com/GoExport/GoExport-Outro-Maker), generate outros for GoExport)
-- GoSubtitle (Unreleased, generate SRT files from Wrapper Offline videos)
+- GoSubtitle ([Download](https://github.com/GoExport/GoSubtitle), generate SRT files from Wrapper Offline videos)
 
 We're also known for additional things:
 
